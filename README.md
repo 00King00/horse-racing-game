@@ -2,7 +2,7 @@
 
 An interactive horse racing game built as a front-end case study for Insider. The user generates a list of horses, a race schedule, and launches animated races with progressive results display.
 
-**Live demo**: _coming soon — Cloudflare Pages_
+**Live demo**: https://horse-racing-game-c09.pages.dev
 
 ---
 
