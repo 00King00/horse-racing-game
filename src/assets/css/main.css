@@ -1,0 +1,3 @@
+/* Entry point for global styles — imports order matters */
+@import './variables.css';
+@import './base.css';
